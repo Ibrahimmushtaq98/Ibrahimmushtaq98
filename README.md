@@ -15,7 +15,7 @@
 
 <img src='https://img.shields.io/badge/-Vulkan-red?&style=flat-square&logo=vulkan&logoColor=white'> <img src='https://img.shields.io/badge/-OpenGL-purple?&style=flat-square&logo=opengl&logoColor=white'>
 
-<img src='https://img.shields.io/badge/-Visual Studio-Blue?&style=flat-square&logo=visual-studio&logoColor=white'> <img src='https://img.shields.io/badge/-Android Studio-green?&style=flat-square&logo=android&logoColor=white'>
+<img src='https://img.shields.io/badge/-Visual Studio-Blue?&style=flat-square&logo=visual-studio&logoColor=white'> <img src='https://img.shields.io/badge/-Android Studio-green?&style=flat-square&logo=android&logoColor=white'> <img src='https://img.shields.io/badge/-CMake-purple?&style=flat-square&logo=cmake&logoColor=white'>
 
 ### Operating System
 <img src='https://img.shields.io/badge/-Window-blue?&style=flat-square&logo=windows&logoColor=white'> <img src='https://img.shields.io/badge/-Linux-black?&style=flat-square&logo=linux&logoColor=white'> <img src='https://img.shields.io/badge/-Arch Linux %28BTW I use Arch%29-purple?&style=flat-square&logo=arch-linux&logoColor=white'> <img src='https://img.shields.io/badge/-Ubuntu-red?&style=flat-square&logo=ubuntu&logoColor=white'> 
