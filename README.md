@@ -18,4 +18,4 @@
 <img src='https://img.shields.io/badge/-Visual Studio-Blue?&style=flat-square&logo=visual-studio&logoColor=white'> <img src='https://img.shields.io/badge/-Android Studio-green?&style=flat-square&logo=android&logoColor=white'>
 
 ### Operating System
-<img src='https://img.shields.io/badge/-Window-blue?&style=flat-square&logo=windows&logoColor=white'> <img src='https://img.shields.io/badge/-Linux-black?&style=flat-square&logo=linux&logoColor=white'> <img src='https://img.shields.io/badge/-Arch Linux-purple?&style=flat-square&logo=arch-linux&logoColor=white'> <img src='https://img.shields.io/badge/-Ubuntu-red?&style=flat-square&logo=ubuntu&logoColor=white'> 
+<img src='https://img.shields.io/badge/-Window-blue?&style=flat-square&logo=windows&logoColor=white'> <img src='https://img.shields.io/badge/-Linux-black?&style=flat-square&logo=linux&logoColor=white'> <img src='https://img.shields.io/badge/-Arch Linux %28BTW I use Arch%29-purple?&style=flat-square&logo=arch-linux&logoColor=white'> <img src='https://img.shields.io/badge/-Ubuntu-red?&style=flat-square&logo=ubuntu&logoColor=white'> 
